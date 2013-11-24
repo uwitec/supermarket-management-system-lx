@@ -1,0 +1,19 @@
+.text { font-family: "ËÎÌו"; font-size: 15px} .bg { background-image: url(bg.jpg); 
+background-repeat: repeat-y} .pic { background-image: url(01.gif); background-repeat: 
+no-repeat} .button { background-image: url(button.gif); background-repeat: repeat} 
+
+
+TD {
+	FONT-SIZE: 15px; color:  #FFFFFF; font-family: "Arial", "Helvetica", "sans-serif"
+}
+P {
+	FONT-SIZE: 15px; color:  #FFFFFF; font-family: "Arial", "Helvetica", "sans-serif"
+}
+LI {
+	FONT-SIZE: 15px
+; text-decoration: none
+; color: #000000; font-family: "Arial", "Helvetica", "sans-serif"
+}
+INPUT {
+	FONT-SIZE: 15px; color:  #000000; font-family: "Arial", "Helvetica", "sans-serif"
+}
